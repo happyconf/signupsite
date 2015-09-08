@@ -1,0 +1,19 @@
+{
+  "name": "happy.wtf",
+  "version": "1.0.0",
+  "description": "Signup page for HappyConf",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "happy"
+  ],
+  "author": "Mark Rendle",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "hbs": "^3.1.0",
+    "serve-static": "^1.10.0"
+  }
+}

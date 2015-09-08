@@ -1,0 +1,21 @@
+{
+  "name": "happy",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "markrendle <mark@markrendle.net>"
+  ],
+  "description": "Signup page",
+  "license": "MIT",
+  "homepage": "https://happy.wtf/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootswatch-dist": "sandstone"
+  }
+}
